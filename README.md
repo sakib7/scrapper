@@ -20,5 +20,5 @@
 * [How to load all entries in an infinite scroll at once](https://stackoverflow.com/a/21008335)
 * [How to Web Scrape with Python (Selenium/ChromeDriver)](https://youtu.be/bhYulVzYRng)
 * [Python Reading and Writing into Excel](https://youtu.be/Agp5OXPJnig)
-
+* [how do i set proxy for chrome in python webdriver](https://stackoverflow.com/a/11821751)
 
