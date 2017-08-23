@@ -42,6 +42,7 @@ while no_of_pagedowns:
     no_of_pagedowns-=1
     print(no_of_pagedowns)
 
+    
 # chrome.find_element_by_xpath("""/html/body/div/div/div[1]/ui-view/div/ui-view/ui-view/div/div/section/div/div[1]/soc-organizations-list/div/div[8]/md-card/div""").click()
 
 cardlist = chrome.find_elements_by_class_name("organization-card__container")
