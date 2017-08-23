@@ -38,6 +38,7 @@ chrome_options.add_argument('--proxy-server=%s' % PROXY)
 chrome = webdriver.Chrome(chromePath,chrome_options=chrome_options)
 
 chrome.get(my_url)
+
 exit(0)
 names = []
 url_list = []
